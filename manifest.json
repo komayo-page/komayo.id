@@ -1,7 +1,7 @@
 {
-  "name": "Komayō page",
-  "short_name": "Komayō",
-  "description": "In the mystical light of the full moon, discover the story of Komayō, a bewitching yōkai from Japanese folklore. Seductive and deadly, she lures lost souls into the game of ōgi, absorbing their life energy and dooming them to eternal torment. It&#39;s a tale of fatal attraction and unchecked desire, a poignant warning against the dangers of temptation.",
+  "name": "halaman Komayo",
+  "short_name": "Komayo",
+  "description": "Dalam cahaya mistis bulan purnama, temukan kisah Komayo, seorang yokai yang mempesona dari cerita rakyat Jepang. Menggoda dan mematikan, dia memikat jiwa yang hilang ke dalam permainan ogi, menyerap energi kehidupan mereka dan menghukum mereka ke dalam siksaan abadi. Ini adalah kisah tentang ketertarikan yang fatal dan hasrat yang tidak terkendali, sebuah peringatan tajam terhadap bahaya godaan.",
   "lang": "id",
   "start_url": "/",
   "display": "standalone",
